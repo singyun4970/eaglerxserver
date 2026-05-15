@@ -1,0 +1,3 @@
+wget https://api.papermc.io/v2/projects/paper/versions/1.12.2/builds/1620/downloads/paper-1.12.2-1620.jar -O server.jar
+
+java -Xmx1G -jar server.jar nogui
